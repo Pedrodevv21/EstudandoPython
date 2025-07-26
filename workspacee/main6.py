@@ -2,7 +2,6 @@
 # Calculadora de desconto progessivo
 
 Valor_compra =float (input("Qual o valor da minha compra"'? '))
-
 if Valor_compra <=100:
     taxa_desconto = 5
 elif 101 <= Valor_compra <=300:
