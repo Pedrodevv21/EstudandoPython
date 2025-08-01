@@ -1,3 +1,5 @@
+#Sistema de cadastro com email e confirmação de senha 
+
 nome = (input ('digite seu nome:'))
 email = (input ("digite seu email:"))
 senha = (input ("digite sua senha:"))
