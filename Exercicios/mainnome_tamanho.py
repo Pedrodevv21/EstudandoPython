@@ -3,7 +3,7 @@ exercício
 '''
 #verificador de nome curto médio ou longo
 
-nome = (input("me fale um nome:"))
+nome = str(input("me fale um nome:"))
 
 if len (nome) <=4:
     print ("esse nome é curto")
