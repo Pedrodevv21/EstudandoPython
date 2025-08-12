@@ -1,5 +1,5 @@
 ''' 
-exercicios para praticar
+exercícios para praticar
 '''
 
 # verificar se a pessoa pode entrar no cinema 
