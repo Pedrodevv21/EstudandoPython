@@ -1,4 +1,6 @@
-
+'''
+Praticando try e except
+'''
 try:
     num1 = float (input ("digite um numero: "))
     num2 = float (input ("digite o segundo numero: "))

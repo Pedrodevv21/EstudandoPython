@@ -1,5 +1,6 @@
-#fatiamento de frase 
-
+'''
+fatiamento de frase 
+'''
 frase = (input ("digite uma frase: "))
 
 if frase:

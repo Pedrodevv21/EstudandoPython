@@ -1,3 +1,7 @@
+'''
+horas com bom dia, boa tarde e boa noite
+'''
+
 horas_inteiros = int (input ("Que horas são ? "))
 
 if horas_inteiros >= 0 and horas_inteiros <= 11:

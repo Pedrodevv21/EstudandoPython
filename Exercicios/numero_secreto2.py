@@ -1,3 +1,9 @@
+
+'''
+exercício número secreto
+
+'''
+
 numero_secreto = 20
 
 while True:

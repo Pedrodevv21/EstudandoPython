@@ -1,3 +1,6 @@
+''' 
+exercício verificador de senha
+'''
 senha = (input ("digite uma senha forte: "))
 
 if senha:

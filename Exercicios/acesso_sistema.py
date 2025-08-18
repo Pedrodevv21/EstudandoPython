@@ -1,3 +1,9 @@
+'''
+exercício 
+
+'''
+
+
 nome_usuário =str(input ("digite seu nome de usuário:"))
 senha = int(input ('digite sua senha:'))
 
