@@ -22,4 +22,4 @@ Bem-vindo ao meu repositório dedicado ao aprendizado contínuo da linguagem *Py
 🔗 Contato
 	•	LinkedIn https://www.linkedin.com/in/pedro-alvesdev/
 	•	Email pedroalves.devv@gamil.com
-	•	GitHub: @pedroalves-dev (adicione seu usuário real)
+	•	GitHub: https://github.com/Pedrodevv21
